@@ -1,0 +1,4 @@
+[submodule "mfe/pfmf-react-cont"]
+	path = mfe/pfmf-react-cont
+	url = git@github.com:Project-Foundations/pfmf-react-cont.git
+	branch = main
