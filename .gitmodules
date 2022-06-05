@@ -1,0 +1,4 @@
+[submodule "micro-frontends/pfmf-react-cont"]
+	path = micro-frontends/pfmf-react-cont
+	url = git@github.com:Project-Foundations/pfmf-react-cont.git
+	branch = main
