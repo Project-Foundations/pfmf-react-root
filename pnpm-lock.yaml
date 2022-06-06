@@ -22,6 +22,7 @@ importers:
       '@types/node': ^16.11.38
       '@types/react': ^18.0.11
       '@types/react-dom': ^18.0.5
+      core: workspace:*
       react: ^18.1.0
       react-dom: ^18.1.0
       react-router-dom: ^6.3.0
@@ -30,6 +31,7 @@ importers:
       typescript: ^4.7.3
       web-vitals: ^2.1.4
     dependencies:
+      core: link:../../pf-react-comp/core
       react: 18.1.0
       react-dom: 18.1.0_react@18.1.0
       react-router-dom: 6.3.0_ef5jwxihqo6n7gxfmzogljlgcm
@@ -92,6 +94,22 @@ importers:
 
   packages/tsconfig:
     specifiers: {}
+
+  pf-react-comp/core:
+    specifiers:
+      '@types/react': ^18.0.11
+      '@types/react-dom': ^18.0.5
+      eslint-config-custom: workspace:*
+      react: ^18.1.0
+      tsconfig: workspace:*
+      typescript: ^4.7.3
+    devDependencies:
+      '@types/react': 18.0.11
+      '@types/react-dom': 18.0.5
+      eslint-config-custom: link:../../packages/eslint-config-acme
+      react: 18.1.0
+      tsconfig: link:../../packages/tsconfig
+      typescript: 4.7.3
 
 packages:
 

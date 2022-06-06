@@ -76,6 +76,12 @@ Learn more about the power of Turborepo:
 - [Configuration Options](https://turborepo.org/docs/reference/configuration)
 - [CLI Usage](https://turborepo.org/docs/reference/command-line-reference)
 
+## Clone
+
+```shell
+git clone --recursive -b main git@github.com:Project-Foundations/pfmf-react-root.git
+```
+
 ## Install dependencies
 
 ```shell
