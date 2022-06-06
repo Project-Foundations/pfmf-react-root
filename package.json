@@ -4,7 +4,8 @@
   "private": true,
   "workspaces": [
     "mfe/*",
-    "packages/*"
+    "packages/*",
+    "pf-react-comp/*"
   ],
   "scripts": {
     "build": "turbo run build",

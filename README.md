@@ -75,3 +75,23 @@ Learn more about the power of Turborepo:
 - [Scoped Tasks](https://turborepo.org/docs/core-concepts/scopes)
 - [Configuration Options](https://turborepo.org/docs/reference/configuration)
 - [CLI Usage](https://turborepo.org/docs/reference/command-line-reference)
+
+## Install dependencies
+
+```shell
+pnpm i
+```
+
+## Run on develop environment
+
+```shell
+pnpm dev
+```
+
+## Add submodule
+
+```shell
+git submodule add -b main git@github.com:Project-Foundations/pfmf-react-cont.git mfe/pfmf-react-cont
+git submodule add -b main git@github.com:Project-Foundations/pfmf-react-prodremo.git mfe/pfmf-react-prodremo
+git submodule add -b main git@github.com:Project-Foundations/pf-react-comp.git pf-react-comp
+```

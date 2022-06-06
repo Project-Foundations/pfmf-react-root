@@ -1,3 +1,4 @@
 packages:
   - "mfe/*"
   - "packages/*"
+  - "pf-react-comp/*"

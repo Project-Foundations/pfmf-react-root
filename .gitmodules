@@ -2,3 +2,11 @@
 	path = mfe/pfmf-react-cont
 	url = git@github.com:Project-Foundations/pfmf-react-cont.git
 	branch = main
+[submodule "mfe/pfmf-react-prodremo"]
+	path = mfe/pfmf-react-prodremo
+	url = git@github.com:Project-Foundations/pfmf-react-prodremo.git
+	branch = main
+[submodule "pf-react-comp"]
+	path = pf-react-comp
+	url = git@github.com:Project-Foundations/pf-react-comp.git
+	branch = main
