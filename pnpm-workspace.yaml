@@ -2,3 +2,4 @@ packages:
   - "mfe/*"
   - "packages/*"
   - "pf-react-comp/*"
+  - "pf-design-system"

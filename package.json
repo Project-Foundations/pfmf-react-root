@@ -5,7 +5,8 @@
   "workspaces": [
     "mfe/*",
     "packages/*",
-    "pf-react-comp/*"
+    "pf-react-comp/*",
+    "pf-design-system"
   ],
   "scripts": {
     "build": "turbo run build",

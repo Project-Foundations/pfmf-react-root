@@ -100,4 +100,5 @@ pnpm dev
 git submodule add -b main git@github.com:Project-Foundations/pfmf-react-cont.git mfe/pfmf-react-cont
 git submodule add -b main git@github.com:Project-Foundations/pfmf-react-prodremo.git mfe/pfmf-react-prodremo
 git submodule add -b main git@github.com:Project-Foundations/pf-react-comp.git pf-react-comp
+git submodule add -b main git@github.com:Project-Foundations/pf-design-system.git pf-design-system
 ```

@@ -10,3 +10,7 @@
 	path = pf-react-comp
 	url = git@github.com:Project-Foundations/pf-react-comp.git
 	branch = main
+[submodule "pf-design-system"]
+	path = pf-design-system
+	url = git@github.com:Project-Foundations/pf-design-system.git
+	branch = main
