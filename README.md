@@ -1,5 +1,9 @@
 # Micro frontend Root
 
+## Prerequisites
+
+Add SSH key your account of github, for more information ckeck [Generating a new SSH key](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
 ## Clone
 
 ```shell
